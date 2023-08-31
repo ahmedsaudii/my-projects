@@ -59,5 +59,5 @@
 #
 # productover_view = pd.DataFrame({'name': productname, 'detail': productinfos, 'price': productprice,'url':compinedurls})
 #
-# productover_view.t
+# productover_view.to_csv('laptops.csv',index=False)
 #
