@@ -11,7 +11,7 @@
 # producturl = []
 # compinedurls = []
 #
-# for i in range(1, 4):
+# for i in range(1, 400):
 #     website = 'https://www.laptopsdirect.co.uk/ct/laptops-and-netbooks/laptops?pageNumber=' + str(i)
 #
 #     response = requests.get(website)
